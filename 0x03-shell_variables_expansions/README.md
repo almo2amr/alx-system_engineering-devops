@@ -1,1 +1,2 @@
-Shell, init files, variables and expansions tasks
+this is my readme file
+hello you
